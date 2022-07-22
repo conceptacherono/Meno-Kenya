@@ -24,7 +24,7 @@ Meno Kenya is a dental services e-commerce platform that enables users to book d
 3. JavaScript for behaviour and functionality.
 
 ## Collaborators
-. [Conceptor Cherono](https://github.com/conceptacherono)
+. [Concepta Cherono](https://github.com/conceptacherono)
 . [Eugene Oluoch](https://github.com/Eugene-Oluoch)
 . [Kimani John](https://github.com/John-Kimani)
 . [Monica Masae](https://github.com/M0nicah)
